@@ -1,0 +1,9 @@
+    body {
+        background-color: black;
+        color: aliceblue;
+        font-family:"Oswald", sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 700px;
+ }       
